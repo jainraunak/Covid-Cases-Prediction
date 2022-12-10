@@ -1,4 +1,4 @@
-# Covid-Cases-Prediction
+# Covid Cases Prediction
 
 Covid cases prediction has become an important tool in today's world. If we are able to predict covid cases accurately, then we will be prepared well in advance for the outcome. So, I have tried to predict covid cases for California state. The covid cases data can be found <a href = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv">here</a>.
 
